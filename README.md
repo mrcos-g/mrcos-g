@@ -24,8 +24,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </p>
 </div>
-<br/>
-<br/>
 <h3 align="left">Data:</h3>
 <div>
   <p>
@@ -34,8 +32,6 @@
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   </p>
 </div>
-<br/>
-<br/>
 <h3 align="left">Tools & Frameworks:</h3>
 <div>
   <p>
@@ -51,8 +47,6 @@
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
   </p>
 </div>
-<br/>
-<br/>
 <h3 align="left">DevOps:</h3>
   <div>
     <p>
@@ -64,17 +58,13 @@
       <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white"/>
     </p>
   </div>
-<br/>
-<br/>
 <h3 align="left">Cloud:</h3>
   <div>
     <p>
       <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     </p>
   </div>
-
-<br/>
-<br/>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcos-g&theme=blue-green"/>
   <br/>
