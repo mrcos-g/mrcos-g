@@ -13,7 +13,7 @@
     🔭 I’m currently working on a
     <a>customer acquisition solution for IGaming brands</a>
   </li>
-  <li>🌱 I’m currently learning Terraform</li>
+  <li>🌱 I’m currently learning <b>Terraform</b></li>
 </ul>
 </div>
 <h2 align="left">Stack</h2>
