@@ -66,7 +66,7 @@
   </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcos-g&theme=blue-green"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrcos-g&theme=blue-green"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=mrcos-g&label=Profile%20views&color=0e75b6&style=flat" alt="mrcos-g" />
 </div>
