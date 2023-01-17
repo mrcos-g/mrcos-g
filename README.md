@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Marcos Gonzalez</h1>
+  <h1>Hi, I'm Marcos</h1>
 </div>
 <div align="center">
   <a href="https://linkedin.com/in/marcos-gonzalez1" target="blank">
@@ -11,7 +11,7 @@
   <ul style="padding-left: 0; list-style: none;">
     <li>
       🔭 I’m currently working on a
-      <a>customer acquisition solution for IGaming brands</a>
+      <a href="https://platform.casinoaffiliateprograms.com/">customer acquisition solution for IGaming brands</a>
     </li>
     <li>🌱 I’m currently learning <b>Terraform</b></li>
   </ul>
