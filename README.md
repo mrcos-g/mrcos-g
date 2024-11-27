@@ -10,10 +10,9 @@
 <div align="left">
   <ul style="padding-left: 0; list-style: none;">
     <li>
-      🔭 I’m currently working on a
-      <a href="https://platform.casinoaffiliateprograms.com/">customer acquisition solution for IGaming brands</a>
+      🔭 I’m currently working on a web crawler project to gather event data within my community
     </li>
-    <li>🌱 I’m currently learning <b>Terraform</b></li>
+    <li>🌱 I’m currently researching <b>Deno</b></li>
   </ul>
 </div>
 <h2 align="left">Stack</h2>
